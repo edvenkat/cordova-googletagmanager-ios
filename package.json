@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/kirikkale/cordova-googletagmanaer-ios.git"
   },
+  "cordova-plugin-firebase-tagmanager": {
+    "CONFIG_FILE_NAME": "GTM-TGT4ZB4.json"
+  },
   "keywords": [
     "cordova",
     "google-tag-manager",
